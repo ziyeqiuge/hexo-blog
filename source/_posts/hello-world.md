@@ -8,6 +8,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
   如果是子目录,则这里写/hexo-blog/images/图片名称.后缀名
  -->
 
+![](http://ww1.sinaimg.cn/large/006DnxC4gy1gfbsv63cwcj316t16wac6.jpg)
+
 ![](/hexo-blog/images/timg16.jpg)
 
 ## Quick Start
