@@ -3,6 +3,13 @@ title: Hello World
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
+<!-- 
+  如果你的网站部署到的域名是根目录,则 /images/图片文件.后缀名
+  如果是子目录,则这里写/hexo-blog/images/图片名称.后缀名
+ -->
+
+![](/hexo-blog/images/timg16.jpg)
+
 ## Quick Start
 
 ### Create a new post
